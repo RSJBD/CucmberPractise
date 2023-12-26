@@ -26,6 +26,8 @@ import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+
+//Ctrl+Shift+o -> import necessary  and unnecessary imports 
 public class Day1 {
 	WebDriverWait webDriverWait ;
 	WebDriver driver;
